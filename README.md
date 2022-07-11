@@ -1,15 +1,16 @@
-# Election Analysis - Audit of Colorado US Congresional Race Results
+# Election Analysis
+### An audit of a Colorado precinct’s US Congresional Race Results
 
 ![Vote](https://user-images.githubusercontent.com/107540080/178165824-e130eff7-1c73-4002-95b4-f006fe980c45.jpg)
 
 ## Project Overview
-A Colorado Board of Elections employee has requested the following tasks to complete the election audit of a recent local congressional election:
-  * Calculate the total number of votes cast.
-  * Determine the county with the highest voter turnout  
-  * Retrieve a complete list of candidates who received votes.
-  * Calculate the total number of votes each candidate received.
-  * Calculate the percentage of votes each candidate received.
-  * Determine the winner of the election based on popular vote.
+A Colorado Board of Elections employee has requested the following tasks to complete the election audit of a recent US Congressional election:
+  1. Calculate the total number of votes cast.
+  2. Determine the county with the highest voter turnout  
+  3. Retrieve a complete list of candidates who received votes.
+  4. Calculate the total number of votes each candidate received.
+  5. Calculate the percentage of votes each candidate received.
+  6. Determine the winner of the election based on popular vote.
   
 ### Resources
  - Data Source: [Election Results](https://github.com/pladams777/Election_Analysis/blob/main/Resources/election_results.csv) (csv file provided by the election board)
